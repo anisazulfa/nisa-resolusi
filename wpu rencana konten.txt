@@ -2,7 +2,8 @@ RENCANA KONTEN BLOG
 
 - puisi
   # asmara
-    *kekasih
+    * kekasih
+    * teman
   # pendidikan
 - artikel
   # politik
