@@ -2,8 +2,10 @@ RENCANA KONTEN BLOG
 
 - puisi
   # asmara
-    * musuh
-    * guru
+    * kekasih
+    * teman
   # pendidikan
 - artikel
   # politik
+- fundamental
+- python
