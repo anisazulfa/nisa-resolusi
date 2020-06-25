@@ -4,3 +4,4 @@ RENCANA KONTEN BLOG
   # asmara
   # pendidikan
 - artikel
+- fundamental
