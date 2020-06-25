@@ -2,6 +2,8 @@ RENCANA KONTEN BLOG
 
 - puisi
   # asmara
+    * musuh
+    * guru
   # pendidikan
 - artikel
-- fundamental
+  # politik
